@@ -24,7 +24,7 @@ LXC контейнеры.
 - [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
 - [Трассировка ядра с ftrace / Блог компании Selectel / Хабр](https://habr.com/ru/company/selectel/blog/280322/)
 - [Sysdig — инструмент для диагностики Linux-систем - блог Selectel](https://blog.selectel.ru/sysdig-instrument-dlya-diagnostiki-linux-sistem/)   
-- https://www.kernel.org/doc/Documentation/trace/ftrace.txt            
+- [ftrace - Function Tracer](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)            
 - [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/)            
 - [Brendan Gregg&#39;s Blog](http://www.brendangregg.com/blog/index.html)
 - [DTrace Tools](http://www.brendangregg.com/dtrace.html)
