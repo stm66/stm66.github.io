@@ -89,7 +89,7 @@ LXC контейнеры.
 
 ### bash
 - [How to open a TCP/UDP socket in a bash shell - Xmodulo](http://xmodulo.com/tcp-udp-socket-bash-shell.html)
-- [Настройка сети в Linux | Как настроить?](https://set-os.ru/network-linux-setup/)
+- [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
 - [The Linux Documentation Project](http://www.tldp.org/)
@@ -102,7 +102,7 @@ LXC контейнеры.
 - [Публикации / Профиль mahoro / Хабр](https://habr.com/ru/users/mahoro/posts/)
 - [Как собрать бинарный deb пакет: подробное HowTo / Хабр](https://habr.com/ru/post/78094/)
 - [Еще раз о deb пакетах / Хабр](https://habr.com/ru/post/282217/)
-- [deb (формат файлов) тАФ Википедия]-(https://ru.wikipedia.org/wiki/Deb_(%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2))
+- [deb (формат файлов) Википедия](https://ru.wikipedia.org/wiki/Deb_(%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2))
 - [dpkg-repack - упаковка установленной программы в deb пакет](http://forum.runtu.org/index.php?topic=4134.0)
 - [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
 - [Системы инициализации Unix и Linux после SysV / Хабр](https://habr.com/ru/post/327728/)
@@ -113,7 +113,7 @@ LXC контейнеры.
 - [ptmx(4): pseudoterminal master/slave - Linux man page](https://linux.die.net/man/4/ptmx)
 - [Hello, World! Глубокое погружение в Терминалы / Хабр](https://habr.com/ru/post/460257/)
 - [Проект OpenNet: MAN ptmx (4) Специальные файлы /dev/* (FreeBSD и Linux)](https://www.opennet.ru/man.shtml?topic=ptmx&category=4&russian=0)
-- [как использовать /dev/ptmx для создания виртуального последовательного порта? - python | fooobar.com](https://fooobar.com/questions/1039315/how-to-use-devptmx-for-create-a-virtual-serial-port)
+- [как использовать /dev/ptmx для создания виртуального последовательного порта? - python  fooobar.com](https://fooobar.com/questions/1039315/how-to-use-devptmx-for-create-a-virtual-serial-port)
 - [Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux / Блог компании НеоБИТ / Хабр](https://habr.com/ru/company/neobit/blog/330764/)
 
 ### Новая папка
