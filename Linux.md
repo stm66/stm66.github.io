@@ -55,7 +55,7 @@ LXC контейнеры.
 - [pseudoterminal master/slave - Linux man page](https://linux.die.net/man/4/ptmx)
 - [Hello, World! Глубокое погружение в Терминалы / Хабр](https://habr.com/ru/post/460257/)
 - [Проект OpenNet: MAN ptmx (4) Специальные файлы /dev/* (FreeBSD и Linux)](https://www.opennet.ru/man.shtml?topic=ptmx&category=4&russian=0)
-- [как использовать /dev/ptmx для создания виртуального последовательного порта? - python | fooobar.com](https://fooobar.com/questions/1039315/how-to-use-devptmx-for-create-a-virtual-serial-port)
+- [как использовать /dev/ptmx для создания виртуального последовательного порта? - python  fooobar.com](https://fooobar.com/questions/1039315/how-to-use-devptmx-for-create-a-virtual-serial-port)
 - [Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux / Блог компании НеоБИТ / Хабр](https://habr.com/ru/company/neobit/blog/330764/)
 - [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
 - [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
