@@ -108,7 +108,7 @@ LXC контейнеры.
 - [Системы инициализации Unix и Linux после SysV / Хабр](https://habr.com/ru/post/327728/)
 - [Где устанавливаются пакеты в системах debian?](https://kompsekret.ru/q/where-do-packages-get-installed-in-debian-systems-54570/)
 - [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
-- [Виртуальный последовательный порт для Linux (linux, serial-port, virtual-serial-port)]-(https://qarchive.ru/69429_virtual_nyi__posledovatel_nyi__port_dlja_linux)
+- [Виртуальный последовательный порт для Linux (linux, serial-port, virtual-serial-port)](https://qarchive.ru/69429_virtual_nyi__posledovatel_nyi__port_dlja_linux)
 - [socat](file:///D:/work/%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/socat/socat-2.0.0-b9/doc/socat.html)
 - [ptmx(4): pseudoterminal master/slave - Linux man page](https://linux.die.net/man/4/ptmx)
 - [Hello, World! Глубокое погружение в Терминалы / Хабр](https://habr.com/ru/post/460257/)
