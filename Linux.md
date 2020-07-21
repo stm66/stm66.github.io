@@ -58,8 +58,6 @@ LXC контейнеры.
 - [Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux / Блог компании НеоБИТ / Хабр](https://habr.com/ru/company/neobit/blog/330764/)
 - [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
 - [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
-
-### Linux
 - [Скачать пакет из репозитория Debian](https://codebeer.ru/skachat-paket-iz-repozitoriya-debian/)
 
 ### syslinux
@@ -85,8 +83,6 @@ LXC контейнеры.
 - [Welcome to LWN.net [LWN.net]](https://lwn.net/)
 - [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)
 - [SystemTap в Linux / Хабр](https://habr.com/ru/post/77502/)
-
-
 - [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
@@ -113,18 +109,6 @@ LXC контейнеры.
 - [Проект OpenNet: MAN ptmx (4) Специальные файлы /dev/* (FreeBSD и Linux)](https://www.opennet.ru/man.shtml?topic=ptmx&category=4&russian=0)
 - [как использовать /dev/ptmx для создания виртуального последовательного порта? - python  fooobar.com](https://fooobar.com/questions/1039315/how-to-use-devptmx-for-create-a-virtual-serial-port)
 - [Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux / Блог компании НеоБИТ / Хабр](https://habr.com/ru/company/neobit/blog/330764/)
-
-### Новая папка
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
-
-### Linux
-- [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
-- [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
-
-### Linux
-- [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
-- [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
-
-### Linux
 - [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
 - [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
