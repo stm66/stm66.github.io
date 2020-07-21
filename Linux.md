@@ -51,7 +51,6 @@ LXC контейнеры.
 - [Где устанавливаются пакеты в системах debian?](https://kompsekret.ru/q/where-do-packages-get-installed-in-debian-systems-54570/)
 - [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
 - [Виртуальный последовательный порт для Linux (linux, serial-port, virtual-serial-port)](https://qarchive.ru/69429_virtual_nyi__posledovatel_nyi__port_dlja_linux)
-- socat программа виртуального порта в linux
 - [pseudoterminal master/slave - Linux man page](https://linux.die.net/man/4/ptmx)
 - [Hello, World! Глубокое погружение в Терминалы / Хабр](https://habr.com/ru/post/460257/)
 - [Проект OpenNet: MAN ptmx (4) Специальные файлы /dev/* (FreeBSD и Linux)](https://www.opennet.ru/man.shtml?topic=ptmx&category=4&russian=0)
