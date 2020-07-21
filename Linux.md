@@ -86,8 +86,7 @@ LXC контейнеры.
 - [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)
 - [SystemTap в Linux / Хабр](https://habr.com/ru/post/77502/)
 
-### bash
-- [How to open a TCP/UDP socket in a bash shell - Xmodulo](http://xmodulo.com/tcp-udp-socket-bash-shell.html)
+
 - [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
