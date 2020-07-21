@@ -11,7 +11,7 @@
 - [Исчерпывающий список книг для знакомства с C++](https://tproger.ru/books/cpp-books-beginners/)
 - [Подборка книг по C++ для любого уровня](https://proglib.io/p/cpp-books/)
 ### assembler
-- [FASM Editor 1.0 | Asmworld](http://asmworld.ru/instrumenty/fasm-editor-1-0/#more-2214)
+- [FASM Editor 1.0 \| Asmworld](http://asmworld.ru/instrumenty/fasm-editor-1-0/#more-2214)
 - [Программная модель микропроцессора](https://mf.grsu.by/UchProc/livak/b_org/oal_7.htm)
 - [What every programmer should know about memory, Part 1 [LWN.net]](https://lwn.net/Articles/250967/)
 - [Низкоуровневое програмирование](http://biosprog.narod.ru/index.htm)
