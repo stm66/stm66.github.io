@@ -15,7 +15,7 @@
 - [Программная модель микропроцессора](https://mf.grsu.by/UchProc/livak/b_org/oal_7.htm)
 - [What every programmer should know about memory, Part 1 [LWN.net]](https://lwn.net/Articles/250967/)
 - [Низкоуровневое програмирование](http://biosprog.narod.ru/index.htm)
-- [ВлВечныеВ» книги для тех, кто строит карьеру в тестировании ПО тАФ Разработка на vc.ru](https://vc.ru/dev/80426-vechnye-knigi-dlya-teh-kto-stroit-kareru-v-testirovanii-po)
+- ["Вечные" книги для тех, кто строит карьеру в тестировании ПО тАФ Разработка на vc.ru](https://vc.ru/dev/80426-vechnye-knigi-dlya-teh-kto-stroit-kareru-v-testirovanii-po)
 - [Много бесплатных книг по программированию / Хабр](https://habr.com/ru/post/191312/)
 - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
 ### GUI_libs
