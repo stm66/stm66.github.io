@@ -6,8 +6,8 @@ LXC контейнеры.
 
 ### Сайты по Linux
 
-- www.tldp.org/LDP/tlk
-- www.kernel.org/doc
+- [www.tldp.org/LDP/tlk](www.tldp.org/LDP/tlk)
+- [www.kernel.org/doc](www.kernel.org/doc)
 - [Скачать пакет из репозитория Debian](https://codebeer.ru/skachat-paket-iz-repozitoriya-debian/)
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
 - [Инструкция по установке Grub4dos](http://greenflash.su/Grub4Dos/files/install.htm#method2)
@@ -86,6 +86,7 @@ LXC контейнеры.
 - [Welcome to LWN.net [LWN.net]](https://lwn.net/)
 - [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)
 - [SystemTap в Linux / Хабр](https://habr.com/ru/post/77502/)
+
 ### bash
 - [How to open a TCP/UDP socket in a bash shell - Xmodulo](http://xmodulo.com/tcp-udp-socket-bash-shell.html)
 - [Настройка сети в Linux | Как настроить?](https://set-os.ru/network-linux-setup/)
