@@ -31,7 +31,7 @@ LXC контейнеры.
 - [Welcome to LWN.net [LWN.net]](https://lwn.net/)            
 - [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)            
 - [SystemTap в Linux / Хабр](https://habr.com/ru/post/77502/)
-- [Настройка сети в Linux | Как настроить?](https://set-os.ru/network-linux-setup/)
+- [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
 - [The Linux Documentation Project](http://www.tldp.org/") 
