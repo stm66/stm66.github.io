@@ -25,4 +25,4 @@
 ### bash
 - [How to open a TCP/UDP socket in a bash shell - Xmodulo](http://xmodulo.com/tcp-udp-socket-bash-shell.html)
 ### Сайт по программированию
-https://proglib.io
+- [https://proglib.io](https://proglib.io)
