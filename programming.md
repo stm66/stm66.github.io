@@ -22,3 +22,5 @@
 - [Nuklear+ тАФ миниатюрный кроссплатформенный GUI / Хабр](https://habr.com/ru/post/338106/)
 ### libev
 - [Delin Blog: Пишем многопоточный сервер с использованием libev](http://blog.delin.pro/2011/01/libev.html)
+### bash
+- [How to open a TCP/UDP socket in a bash shell - Xmodulo](http://xmodulo.com/tcp-udp-socket-bash-shell.html)
