@@ -1,0 +1,3 @@
+- [Алгоритмы](https://proglib.io/p/awesome-algorithms/) -  Ссылки на сайты, книги  и другие ресурсы по алгоритмам
+- [Competitive Programming Tutorials](http://www.topcoder.com/community/competitive-programming/tutorials/)
+- [Data Structures and Algorithms](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
