@@ -23,7 +23,7 @@ LXC контейнеры.
 - [memory management - Хорошая книга по работе с памятью в C++ - Stack Overflow на русском](https://ru.stackoverflow.com/questions/496742/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D1%81-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E-%D0%B2-c)
 - [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
 - [Трассировка ядра с ftrace / Блог компании Selectel / Хабр](https://habr.com/ru/company/selectel/blog/280322/)
-- [Sysdig — инструмент для диагностики Linux-систем - блог Selectel](https://blog.selectel.ru/sysdig-instrument-dlya-diagnostiki-linux-sistem/)            
+- [Sysdig — инструмент для диагностики Linux-систем - блог Selectel](https://blog.selectel.ru/sysdig-instrument-dlya-diagnostiki-linux-sistem/)   
 - https://www.kernel.org/doc/Documentation/trace/ftrace.txt            
 - [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/)            
 - [Brendan Gregg&#39;s Blog](http://www.brendangregg.com/blog/index.html)
