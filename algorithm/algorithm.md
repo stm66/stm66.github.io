@@ -1,2 +1,3 @@
 - [Алгоритмы] (https://ru.algorithmica.org/)
 - [Сайт с большим количеством алгоритмов] (http://algolist.manual.ru/)
+- [Курс «Алгоритмы и структуры данных поиска»] (https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
