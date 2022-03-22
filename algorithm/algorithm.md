@@ -1,1 +1,2 @@
-Алгоритмы https://ru.algorithmica.org/
+[Алгоритмы] (https://ru.algorithmica.org/)
+[Сайт с большим количеством алгоритмов] (http://algolist.manual.ru/)
