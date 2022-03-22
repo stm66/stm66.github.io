@@ -1,3 +1,4 @@
+### Алгоритмы
 - [Алгоритмы](https://proglib.io/p/awesome-algorithms/) -  Ссылки на сайты, книги  и другие ресурсы по алгоритмам
 - [Competitive Programming Tutorials](http://www.topcoder.com/community/competitive-programming/tutorials/)
 - [Data Structures and Algorithms](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
@@ -6,7 +7,9 @@
 - [LAPACK Linear Algebra PACKage](http://www.netlib.org/lapack/)
 - [Бесплатные материалы для программистов](https://tproger.ru/articles/free-programming-books/)
 - [dev64 | Programming](https://dev64.wordpress.com/page/2/)
-### c/c++
+### Языки программирования
+
+## c/c++
 - [Книги по языку Си для начинающих и не только](https://tproger.ru/books/clang-books/)
 - [Исчерпывающий список книг для знакомства с C++](https://tproger.ru/books/cpp-books-beginners/)
 - [Подборка книг по C++ для любого уровня](https://proglib.io/p/cpp-books/)
