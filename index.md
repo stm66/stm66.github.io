@@ -4,3 +4,4 @@
 - [Linux](Linux.md)
 - [Android](Android.md)
 - [Алгоритмы](algorithm/algorithm.md)
+- [Тестирование программ](test_prog/test.html)
