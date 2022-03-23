@@ -2,6 +2,6 @@
 ![Image alt](image/pinguin.png)
 - [Программирование](programming.md)
 - [Linux](Linux.md)
-- [Android](Android.md)
+- [Android](android/android.md)
 - [Алгоритмы](algorithm/algorithm.md)
 - [Тестирование программ](test_prog/test_prog.html)
