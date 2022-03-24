@@ -4,6 +4,9 @@
 cgroups интересная технология в Linux. Позволяет управлять ресурсами процесса или группы процессов. Также можно ограничить доступ к ресурсам одного процесса из другого процесса.
 LXC контейнеры.
 
+### Документация по Linux
+[Linux doc](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation)
+
 ### Сайты по Linux
 
 - [www.tldp.org/LDP/tlk](www.tldp.org/LDP/tlk)
