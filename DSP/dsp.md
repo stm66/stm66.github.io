@@ -1,3 +1,3 @@
 Информация о DSP
-(www.dsplib.ru)
-(www.dspa.ru)
+- (www.dsplib.ru)
+- [Научно-технический журнал "Цифровая обработка сигналов"](www.dspa.ru)
