@@ -5,3 +5,4 @@
 - [Android](android/android.md)
 - [Алгоритмы](algorithm/algorithm.md)
 - [Тестирование программ](test_prog/test_prog.html)
+- [DSP](DSP/dsp.md)
