@@ -7,4 +7,4 @@
 - [Тестирование программ](test_prog/test_prog.html)
 - [DSP](DSP/dsp.md)
 - [openCV](opencv/opencv.md)
-- [work](work/index.md)
+- [work](work/index.html)
