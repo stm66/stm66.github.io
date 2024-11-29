@@ -18,6 +18,8 @@
 - ["Вечные" книги для тех, кто строит карьеру в тестировании ПО тАФ Разработка на vc.ru](https://vc.ru/dev/80426-vechnye-knigi-dlya-teh-kto-stroit-kareru-v-testirovanii-po)
 - [Много бесплатных книг по программированию / Хабр](https://habr.com/ru/post/191312/)
 - [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html)
+- [Список ресурсов для изучения Ассемблера / Хабр](https://habr.com/ru/post/131971/)
+ 
 ### GUI_libs
 - [Nuklear+ тАФ миниатюрный кроссплатформенный GUI / Хабр](https://habr.com/ru/post/338106/)
 ### libev
