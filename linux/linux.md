@@ -13,6 +13,7 @@ LXC контейнеры.
 [The Linux Documentation Project](http://www.tldp.org/") 
 
 ### Администрирование Linux
+- [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
 
 ### Как написать драйвер по Linux
 [Как написать драйвер для Linux](http://korzh.net/2013-12-linux-driver.html)
@@ -26,6 +27,8 @@ LXC контейнеры.
 - [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)
 - [Скандальная правда об отладке ядерного кода в Linux](https://eax.me/linux-kernel-debug/)
 - uprobes это тоже что и в ядре только для пользовательского уровня.
+- [Strace / Хабр](https://habr.com/ru/post/215577/)
+- [Перехват системных вызовов с помощью ptrace / Хабр](https://habr.com/ru/post/111266/) 
 
 ### Измерение и анализ производительности Linux
 - [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
@@ -33,6 +36,8 @@ LXC контейнеры.
 - [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
 
 ### Сеть в Linux
+- [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
+- [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 
 ### Сборка Linux из исходников
 - [Linux From Scratch](https://book.linuxfromscratch.org.ru/systemv/)                 
@@ -41,6 +46,15 @@ LXC контейнеры.
 
 ### Свой Дистрибутив Linux
 
+### Сборка deb пакетов
+- [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
+- [deb-пакет на коленке / Хабр](https://habr.com/ru/post/72633/)
+- [Debian-пакеты с человеческим лицом на примере Zabbix 1.8](https://habr.com/ru/post/78086/)
+- [Как собрать бинарный deb пакет: подробное HowTo / Хабр](https://habr.com/ru/post/78094/)
+- [Еще раз о deb пакетах / Хабр](https://habr.com/ru/post/282217/)
+- [deb (формат файлов) — Википедия](https://ru.wikipedia.org/wiki/Deb_(%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2))
+- [dpkg-repack - упаковка установленной программы в deb пакет](http://forum.runtu.org/index.php?topic=4134.0)
+- 
 ### Системы инициализации Linux
 
 
@@ -52,8 +66,8 @@ LXC контейнеры.
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
 - [Инструкция по установке Grub4dos](http://greenflash.su/Grub4Dos/files/install.htm#method2)
 
-- [Strace / Хабр](https://habr.com/ru/post/215577/)
-- [Перехват системных вызовов с помощью ptrace / Хабр](https://habr.com/ru/post/111266/)            
+
+           
 
 - [ссылки по reverse engineering / Блог компании Digital Security / Хабр](https://habr.com/ru/company/dsec/blog/334832/#4a-windows)       - [ссылки по reverse engineering / Блог компании Digital Security / Хабр](https://habr.com/ru/company/dsec/blog/334832/#2c-windbg-ollydbg--immunity-debugger--x64dbg)     
 - [ссылки по reverse engineering / Блог компании Digital Security / Хабр](https://habr.com/ru/company/dsec/blog/334832/)            
@@ -70,25 +84,19 @@ LXC контейнеры.
 - [Welcome to LWN.net [LWN.net]](https://lwn.net/)            
            
 - [SystemTap в Linux / Хабр](https://habr.com/ru/post/77502/)
-- [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
-- [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
+
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
 
 
 
-- [Операционная система с нуля на Ассемблере и Cи](https://asmdev.narod.ru/asmos/asmos.html))
+- [Операционная система с нуля на Ассемблере и Cи](https://asmdev.narod.ru/asmos/asmos.html)
 - [Прерывания DOS и BIOS](http://www.codenet.ru/progr/dos/)
 - [Hooking Linux Kernel Functions, Part 1: Looking for the Perfect Solution](https://www.apriorit.com/dev-blog/544-hooking-linux-functions-1)
-- [deb-пакет на коленке / Хабр](https://habr.com/ru/post/72633/)
-- [Debian-пакеты с человеческим лицом на примере Zabbix 1.8](https://habr.com/ru/post/78086/)
-- [Как собрать бинарный deb пакет: подробное HowTo / Хабр](https://habr.com/ru/post/78094/)
-- [Еще раз о deb пакетах / Хабр](https://habr.com/ru/post/282217/)
-- [deb (формат файлов) — Википедия](https://ru.wikipedia.org/wiki/Deb_(%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2))
-- [dpkg-repack - упаковка установленной программы в deb пакет](http://forum.runtu.org/index.php?topic=4134.0)
+
 
 - [Системы инициализации Unix и Linux после SysV / Хабр](https://habr.com/ru/post/327728/)
 - [Где устанавливаются пакеты в системах debian?](https://kompsekret.ru/q/where-do-packages-get-installed-in-debian-systems-54570/)
-- [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
+
 - [Виртуальный последовательный порт для Linux (linux, serial-port, virtual-serial-port)](https://qarchive.ru/69429_virtual_nyi__posledovatel_nyi__port_dlja_linux)
 - [pseudoterminal master/slave - Linux man page](https://linux.die.net/man/4/ptmx)
 - [Hello, World! Глубокое погружение в Терминалы / Хабр](https://habr.com/ru/post/460257/)
@@ -140,7 +148,7 @@ LXC контейнеры.
 
 - [Системы инициализации Unix и Linux после SysV / Хабр](https://habr.com/ru/post/327728/)
 - [Где устанавливаются пакеты в системах debian?](https://kompsekret.ru/q/where-do-packages-get-installed-in-debian-systems-54570/)
-- [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
+
 - [Виртуальный последовательный порт для Linux (linux, serial-port, virtual-serial-port)](https://qarchive.ru/69429_virtual_nyi__posledovatel_nyi__port_dlja_linux)
 - [socat](file:///D:/work/%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/socat/socat-2.0.0-b9/doc/socat.html)
 - [ptmx(4): pseudoterminal master/slave - Linux man page](https://linux.die.net/man/4/ptmx)
