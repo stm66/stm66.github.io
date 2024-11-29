@@ -1,4 +1,6 @@
 ### Linux
+### Новости по linux
+[Linux Weekly News («Еженедельные новости о Linux»)](https://lwn.net/)
 
 [Скандальная правда об отладке ядерного кода в Linux](https://eax.me/linux-kernel-debug/)
 cgroups интересная технология в Linux. Позволяет управлять ресурсами процесса или группы процессов. Также можно ограничить доступ к ресурсам одного процесса из другого процесса.
@@ -10,6 +12,8 @@ LXC контейнеры.
 [www.tldp.org/LDP/tlk](http://www.tldp.org/LDP/tlk)
 [The Linux Documentation Project](http://www.tldp.org/") 
 
+### Администрирование Linux
+
 ### Как написать драйвер по Linux
 [Как написать драйвер для Linux](http://korzh.net/2013-12-linux-driver.html)
 
@@ -17,10 +21,20 @@ LXC контейнеры.
 - [Трассировка ядра с ftrace / Блог компании Selectel / Хабр](https://habr.com/ru/company/selectel/blog/280322/)
 - [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
 - [How to Debug the Linux Kernel with QEMU and Libvirt](https://www.apriorit.com/dev-blog/597-debug-linux-kernel-qemu-libvirt)
+- [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
+- [ftrace - Function Tracer](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)
+- [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/) 
 
 ### Измерение и анализ производительности Linux
+- [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
+- [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/) 
+- 
+### Сеть в Linux
 
-
+### Сборка Linux из исходников
+- [Linux From Scratch](https://book.linuxfromscratch.org.ru/systemv/)                 
+- [Перевод книги Linux From Scratch на русский язык](https://book.linuxfromscratch.org.ru)
+- [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
 
 ### Сайты по Linux
 
@@ -29,8 +43,7 @@ LXC контейнеры.
 - [Скачать пакет из репозитория Debian](https://codebeer.ru/skachat-paket-iz-repozitoriya-debian/)
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
 - [Инструкция по установке Grub4dos](http://greenflash.su/Grub4Dos/files/install.htm#method2)
-- [Linux From Scratch](https://book.linuxfromscratch.org.ru/systemv/)                 
-- [Перевод книги Linux From Scratch на русский язык](https://book.linuxfromscratch.org.ru)
+
 - [Strace / Хабр](https://habr.com/ru/post/215577/)
 - [Перехват системных вызовов с помощью ptrace / Хабр](https://habr.com/ru/post/111266/)            
 
@@ -42,12 +55,12 @@ LXC контейнеры.
 
 
 - [Sysdig — инструмент для диагностики Linux-систем - блог Selectel](https://blog.selectel.ru/sysdig-instrument-dlya-diagnostiki-linux-sistem/)   
-- [ftrace - Function Tracer](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)            
-- [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/)            
+            
+           
 - [Brendan Gregg&#39;s Blog](http://www.brendangregg.com/blog/index.html)
 - [DTrace Tools](http://www.brendangregg.com/dtrace.html)
 - [Welcome to LWN.net [LWN.net]](https://lwn.net/)            
-- [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)            
+           
 - [SystemTap в Linux / Хабр](https://habr.com/ru/post/77502/)
 - [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
@@ -64,7 +77,7 @@ LXC контейнеры.
 - [Еще раз о deb пакетах / Хабр](https://habr.com/ru/post/282217/)
 - [deb (формат файлов) — Википедия](https://ru.wikipedia.org/wiki/Deb_(%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2))
 - [dpkg-repack - упаковка установленной программы в deb пакет](http://forum.runtu.org/index.php?topic=4134.0)
-- [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
+
 - [Системы инициализации Unix и Linux после SysV / Хабр](https://habr.com/ru/post/327728/)
 - [Где устанавливаются пакеты в системах debian?](https://kompsekret.ru/q/where-do-packages-get-installed-in-debian-systems-54570/)
 - [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
@@ -91,7 +104,7 @@ LXC контейнеры.
 - [6 лучших книг о Linux для глубокого понимания системы](https://proglib.io/p/6-best-linux-books/)
 - [Подборка книг для изучения Linux](https://tproger.ru/books/linux/)
 - [memory management - Хорошая книга по работе с памятью в C++ - Stack Overflow на русском](https://ru.stackoverflow.com/questions/496742/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D1%81-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E-%D0%B2-c)
-- [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
+
 - [Трассировка ядра с ftrace / Блог компании Selectel / Хабр](https://habr.com/ru/company/selectel/blog/280322/)
 - [Sysdig тАФ инструмент для диагностики Linux-систем - блог Selectel](https://blog.selectel.ru/sysdig-instrument-dlya-diagnostiki-linux-sistem/)
 - [https://www.kernel.org/doc/Documentation/trace/ftrace.txt](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)
@@ -129,4 +142,4 @@ LXC контейнеры.
 - [Виртуальные твари и места их обитания: прошлое и настоящее TTY в Linux / Блог компании НеоБИТ / Хабр](https://habr.com/ru/company/neobit/blog/330764/)
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
 - [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
-- [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
+
