@@ -25,6 +25,7 @@ LXC контейнеры.
 - [ftrace - Function Tracer](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)
 - [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)
 - [Скандальная правда об отладке ядерного кода в Linux](https://eax.me/linux-kernel-debug/)
+- uprobes это тоже что и в ядре только для пользовательского уровня.
 
 ### Измерение и анализ производительности Linux
 - [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
