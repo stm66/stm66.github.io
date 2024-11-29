@@ -76,7 +76,7 @@ LXC контейнеры.
 
 
 
-- [Subscribe.Ru : Операционная система &quot;с нуля&quot; на Ассемблере и Cи (Выпуск №12)](http://www.uic.unn.ru:8103/~kavs2/ZIP/AsmOS/OS/12.html)
+- [Операционная система с нуля на Ассемблере и Cи](https://asmdev.narod.ru/asmos/asmos.html))
 - [Прерывания DOS и BIOS](http://www.codenet.ru/progr/dos/)
 - [Hooking Linux Kernel Functions, Part 1: Looking for the Perfect Solution](https://www.apriorit.com/dev-blog/544-hooking-linux-functions-1)
 - [deb-пакет на коленке / Хабр](https://habr.com/ru/post/72633/)
