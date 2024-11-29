@@ -1,8 +1,8 @@
-### Linux
+## Linux
 ### Новости по linux
 [Linux Weekly News («Еженедельные новости о Linux»)](https://lwn.net/)
 
-[Скандальная правда об отладке ядерного кода в Linux](https://eax.me/linux-kernel-debug/)
+### Небольшие заметки по Linux
 cgroups интересная технология в Linux. Позволяет управлять ресурсами процесса или группы процессов. Также можно ограничить доступ к ресурсам одного процесса из другого процесса.
 LXC контейнеры.
 
@@ -23,18 +23,25 @@ LXC контейнеры.
 - [How to Debug the Linux Kernel with QEMU and Libvirt](https://www.apriorit.com/dev-blog/597-debug-linux-kernel-qemu-libvirt)
 - [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
 - [ftrace - Function Tracer](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)
-- [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/) 
+- [Механизмы профилирования Linux / Блог компании НТЦ Метротек / Хабр](https://habr.com/ru/company/metrotek/blog/261003/)
+- [Скандальная правда об отладке ядерного кода в Linux](https://eax.me/linux-kernel-debug/)
 
 ### Измерение и анализ производительности Linux
 - [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
-- [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/) 
-- 
+- [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/)
+- [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
+
 ### Сеть в Linux
 
 ### Сборка Linux из исходников
 - [Linux From Scratch](https://book.linuxfromscratch.org.ru/systemv/)                 
 - [Перевод книги Linux From Scratch на русский язык](https://book.linuxfromscratch.org.ru)
 - [LFS Project Homepage](http://linuxfromscratch.org/lfs/)
+
+### Свой Дистрибутив Linux
+
+### Системы инициализации Linux
+
 
 ### Сайты по Linux
 
@@ -66,7 +73,7 @@ LXC контейнеры.
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
 
-- [Список ресурсов для изучения Ассемблера / Хабр](https://habr.com/ru/post/131971/)
+
 
 - [Subscribe.Ru : Операционная система &quot;с нуля&quot; на Ассемблере и Cи (Выпуск №12)](http://www.uic.unn.ru:8103/~kavs2/ZIP/AsmOS/OS/12.html)
 - [Прерывания DOS и BIOS](http://www.codenet.ru/progr/dos/)
@@ -129,7 +136,7 @@ LXC контейнеры.
 - [Еще раз о deb пакетах / Хабр](https://habr.com/ru/post/282217/)
 - [deb (формат файлов) Википедия](https://ru.wikipedia.org/wiki/Deb_(%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2))
 - [dpkg-repack - упаковка установленной программы в deb пакет](http://forum.runtu.org/index.php?topic=4134.0)
-- [57 инструментов командной строки для мониторинга производительности Linux - ZaLinux.ru](https://zalinux.ru/?p=896)
+
 - [Системы инициализации Unix и Linux после SysV / Хабр](https://habr.com/ru/post/327728/)
 - [Где устанавливаются пакеты в системах debian?](https://kompsekret.ru/q/where-do-packages-get-installed-in-debian-systems-54570/)
 - [Шпаргалка начинающего Debian/Ubuntu администратора по управлению пакетами / Хабр](https://habr.com/ru/post/150131/)
