@@ -6,11 +6,26 @@ LXC контейнеры.
 
 ### Документация по Linux
 [Linux doc](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation)
+[www.tldp.org/LDP/tlk](http://www.tldp.org/LDP/tlk)
+[www.tldp.org/LDP/tlk](http://www.tldp.org/LDP/tlk)
+[The Linux Documentation Project](http://www.tldp.org/") 
+
+### Как написать драйвер по Linux
+[Как написать драйвер для Linux](http://korzh.net/2013-12-linux-driver.html)
+
+### Отладка и трассировка в Linux
+- [Трассировка ядра с ftrace / Блог компании Selectel / Хабр](https://habr.com/ru/company/selectel/blog/280322/)
+- [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
+- [How to Debug the Linux Kernel with QEMU and Libvirt](https://www.apriorit.com/dev-blog/597-debug-linux-kernel-qemu-libvirt)
+
+### Измерение и анализ производительности Linux
+
+
 
 ### Сайты по Linux
 
-- [www.tldp.org/LDP/tlk](http://www.tldp.org/LDP/tlk)
-- [www.kernel.org/doc](http://www.kernel.org/doc)
+
+
 - [Скачать пакет из репозитория Debian](https://codebeer.ru/skachat-paket-iz-repozitoriya-debian/)
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
 - [Инструкция по установке Grub4dos](http://greenflash.su/Grub4Dos/files/install.htm#method2)
@@ -18,14 +33,14 @@ LXC контейнеры.
 - [Перевод книги Linux From Scratch на русский язык](https://book.linuxfromscratch.org.ru)
 - [Strace / Хабр](https://habr.com/ru/post/215577/)
 - [Перехват системных вызовов с помощью ptrace / Хабр](https://habr.com/ru/post/111266/)            
-- [Как написать драйвер для Linux](http://korzh.net/2013-12-linux-driver.html)
+
 - [ссылки по reverse engineering / Блог компании Digital Security / Хабр](https://habr.com/ru/company/dsec/blog/334832/#4a-windows)       - [ссылки по reverse engineering / Блог компании Digital Security / Хабр](https://habr.com/ru/company/dsec/blog/334832/#2c-windbg-ollydbg--immunity-debugger--x64dbg)     
 - [ссылки по reverse engineering / Блог компании Digital Security / Хабр](https://habr.com/ru/company/dsec/blog/334832/)            
 - [6 лучших книг о Linux для глубокого понимания системы](https://proglib.io/p/6-best-linux-books/)
 - [Подборка книг для изучения Linux](https://tproger.ru/books/linux/)
 - [memory management - Хорошая книга по работе с памятью в C++ - Stack Overflow на русском](https://ru.stackoverflow.com/questions/496742/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D1%81-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%D1%8E-%D0%B2-c)
-- [Инструменты для отладки программ в Linux / Блог компании FirstVDS / FirstDEDIC / Хабр](https://habr.com/ru/company/first/blog/310164/)
-- [Трассировка ядра с ftrace / Блог компании Selectel / Хабр](https://habr.com/ru/company/selectel/blog/280322/)
+
+
 - [Sysdig — инструмент для диагностики Linux-систем - блог Selectel](https://blog.selectel.ru/sysdig-instrument-dlya-diagnostiki-linux-sistem/)   
 - [ftrace - Function Tracer](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)            
 - [Анализ производительности блочных устройств с blktrace - блог Selectel](https://blog.selectel.ru/analiz-proizvoditelnosti-blochnyx-ustrojstv-s-blktrace/)            
@@ -37,9 +52,9 @@ LXC контейнеры.
 - [Настройка сети в Linux  Как настроить?](https://set-os.ru/network-linux-setup/)
 - [Настройка локальной сети в Linux](https://itshaman.ru/articles/54)
 - [VGER.KERNEL.ORG](http://vger.kernel.org/)
-- [The Linux Documentation Project](http://www.tldp.org/") 
+
 - [Список ресурсов для изучения Ассемблера / Хабр](https://habr.com/ru/post/131971/)
-- [How to Debug the Linux Kernel with QEMU and Libvirt](https://www.apriorit.com/dev-blog/597-debug-linux-kernel-qemu-libvirt)
+
 - [Subscribe.Ru : Операционная система &quot;с нуля&quot; на Ассемблере и Cи (Выпуск №12)](http://www.uic.unn.ru:8103/~kavs2/ZIP/AsmOS/OS/12.html)
 - [Прерывания DOS и BIOS](http://www.codenet.ru/progr/dos/)
 - [Hooking Linux Kernel Functions, Part 1: Looking for the Perfect Solution](https://www.apriorit.com/dev-blog/544-hooking-linux-functions-1)
