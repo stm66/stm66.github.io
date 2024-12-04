@@ -1,3 +1,6 @@
+
+[Главная страница](https://stm66.github.io/)
+
 ## Linux
 ### Новости по linux
 [Linux Weekly News («Еженедельные новости о Linux»)](https://lwn.net/)
@@ -159,3 +162,5 @@ LXC контейнеры.
 - [Hard disk images - Syslinux Wiki](https://wiki.syslinux.org/wiki/index.php?title=Hard_disk_images)
 - [Linux source code: (v5.3.6) - Bootlin](https://elixir.bootlin.com/linux/latest/source)
 
+
+[Главная страница](https://stm66.github.io/)

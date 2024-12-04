@@ -1,3 +1,4 @@
+[Главная страница](https://stm66.github.io/)
 
 ### kkk
 - [LAPACK Linear Algebra PACKage](http://www.netlib.org/lapack/)
@@ -28,3 +29,6 @@
 - [How to open a TCP/UDP socket in a bash shell - Xmodulo](http://xmodulo.com/tcp-udp-socket-bash-shell.html)
 ### Сайт по программированию
 - [https://proglib.io](https://proglib.io)
+
+
+[Главная страница](https://stm66.github.io/)
