@@ -1,3 +1,6 @@
+
+[Главная страница](https://stm66.github.io/)
+
 ## Разработка Android приложения на QT
 ### Установка Android SDK и Android NDK
 Вопрос:
@@ -47,3 +50,6 @@ It seem that avdmanager can not find the local image. Please try:
 cd YOUR_SDK_ROOT_DIRECTORY
 
 avdmanager create avd -n test -k "system-images;android-23;google_apis;x86"
+
+
+[Главная страница](https://stm66.github.io/)
