@@ -3,7 +3,7 @@
 ## Руководства по сборке своего дистрибутива
 - [Linux for ARM - руководство по сборке своего дистрибутива Linux из исходного кода для ARM-компьютеров](https://github.com/Linux-for-ARM)
 - [Linux для себя](https://lx4u.ru/)
-- [Cross-Compiled Linux From Scratch - Embedded ](http://clfs.org/view/clfs-embedded/arm/)
+- [Cross-Compiled Linux From Scratch - Embedded ](http://clfs.org/view/clfs-embedded/arm/) - Уже устарела
 - [Linux for ARM (сама книга)](https://linux-for-arm.github.io/)
 
 ## Gentoo
