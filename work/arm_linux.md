@@ -43,20 +43,20 @@
 
 ## Установка недостающих пакетов
 
-**bison**
-\> sudo apt install bison<br>
-**flex**
-> sudo apt install flex<br>
+**bison**<br>
+    >sudo apt install bison<br>
+**flex**<br>
+    >sudo apt install flex<br>
 **gawk**
-> sudo apt install gawk
+    > sudo apt install gawk
 **swig**
-> sudo apt install swig
+    > sudo apt install swig
 **texinfo**
->sudo apt install texinfo
+    >sudo apt install texinfo
 **u-boot-tools**
->sudo apt install u-boot-tools
+    >sudo apt install u-boot-tools
 **setuptools**
->sudo apt-get install python-setuptools
+    >sudo apt-get install python-setuptools
 
 Пока не установил setuptools-66.1 (для компиляции U-Boot). Такого нет в ubuntu.
 Похоже это пакет sudo apt-get install python-setuptools
