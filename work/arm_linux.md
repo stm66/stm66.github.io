@@ -44,7 +44,7 @@
 ## Установка недостающих пакетов
 
 **bison**
-> sudo apt install bison<br>
+\> sudo apt install bison<br>
 **flex**
 > sudo apt install flex<br>
 **gawk**
