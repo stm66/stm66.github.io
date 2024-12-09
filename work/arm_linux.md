@@ -61,4 +61,8 @@
 Пока не установил setuptools-66.1 (для компиляции U-Boot). Такого нет в ubuntu.
 Похоже это пакет sudo apt-get install python-setuptools
 
+
+
+
+
 ## Создаем пользователя LFA
