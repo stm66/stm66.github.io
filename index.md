@@ -1,6 +1,6 @@
 
 
- ![Image alt](image/pinguin.png){:style="float: left; margin-right: 7px; margin-top: 7px;"}
+ ![Image alt](image/pinguin.png){:style="float: left; margin-right: 17px; margin-top: 7px;"}
  
 - [Программирование](programming.md)
 - [Linux](linux/linux.md)
