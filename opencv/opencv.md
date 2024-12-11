@@ -11,14 +11,14 @@ OpenCV (англ. open source computer vision library) — библиотека 
 
 ## Моделирование среды
 
-[Unity+openCV](https://habr.com/ru/articles/271337/)
-[Виртуальный квадрокоптер на Unity + OpenCV (Часть 1)](https://habr.com/ru/articles/267791/)
-[ROS - Robot Operating System](https://www.ros.org/)
-[Gazebo](https://gazebosim.org/home)
+- [Unity+openCV](https://habr.com/ru/articles/271337/)
+- [Виртуальный квадрокоптер на Unity + OpenCV (Часть 1)](https://habr.com/ru/articles/267791/)
+- [ROS - Robot Operating System](https://www.ros.org/)
+- [Gazebo](https://gazebosim.org/home)
 
 ## Полезные ссылки
 
-[OpenCV шаг за шагом. Введение.](https://robocraft.ru/computervision/264)
+- [OpenCV шаг за шагом. Введение.](https://robocraft.ru/computervision/264)
 
 
 [Главная страница](https://stm66.github.io/)
