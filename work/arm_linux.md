@@ -1,4 +1,6 @@
 
+# Сборка ARM LINUX
+
 По мотивам статьи (GitHub) - [https://linux-for-arm.github.io/](https://linux-for-arm.github.io/)
 Все необходимые материалы - [https://github.com/Linux-for-ARM](https://github.com/Linux-for-ARM) главный репозиторий проекта.
 
@@ -33,7 +35,7 @@
     python-3.4
     rsync-3.2.7 (для установки заголовков ядра на этапе сборки кросс-компилятора)
     sed-4.1.5
-    setuptools-66.1 (для компиляции U-Boot)1
+    python3-setuptools (для компиляции U-Boot)
     swig-4.0 (для компиляции U-Boot)
     tar-1.22
     texinfo-6.8 (для сборки binutils)
