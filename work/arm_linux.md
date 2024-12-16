@@ -10,7 +10,7 @@
 
 
 На вашей хост-системе должно быть установлено ПО из списка ниже с указанными минимальными версиями. Для большинства современных дистрибутивов Linux это не должно быть особой проблемой.
-
+    
     bash-3.2 (/bin/sh должна быть ссылкой на bash)
     bc-1.07 (для компиляции Linux)
     binutils-2.13
@@ -39,6 +39,7 @@
     u-boot-tools-2023.01 (для сборки ядра Linux и работы с загрузчиком U-Boot)
     xz-5.0
     wget-1.23 и md5sum (для скачивания исходного кода LFA)
+
 
 
 ## Установка недостающих пакетов
@@ -94,5 +95,20 @@ su - lfa
 
 ## 
 
-## 
+## Сборка ядра Linux
+
+Неожиданно при сборке ядра Linux ARM на хостовой машине должен быть установлен пакет libssl-dev.
+sudo aptitude install libssl-dev
+Так же на хосте должны быть пакеты
+need to install some required packages：
+- make
+- build-essential
+- libncurses-dev 
+- bison 
+- flex 
+- libssl-dev 
+- libelf-dev
+
+sudo apt-get install make build-essential libncurses-dev bison flex libssl-dev libelf-dev
+
 
