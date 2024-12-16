@@ -37,6 +37,7 @@
     sed-4.1.5
     python3-setuptools (для компиляции U-Boot)
     python3-dev (для компиляции U-Boot)
+    python3-pyelftools (для компиляции U-Boot)
     swig-4.0 (для компиляции U-Boot)
     tar-1.22
     texinfo-6.8 (для сборки binutils)
