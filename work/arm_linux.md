@@ -1,6 +1,7 @@
 
-По мотивам статьи (GitHub) - [](https://linux-for-arm.github.io/)
-Все необходимые материалы - [](https://github.com/Linux-for-ARM)
+По мотивам статьи (GitHub) - [https://linux-for-arm.github.io/](https://linux-for-arm.github.io/)
+Все необходимые материалы - [https://github.com/Linux-for-ARM](https://github.com/Linux-for-ARM) главный репозиторий проекта.
+
 
 ## 1 Введение
 
@@ -111,4 +112,18 @@ need to install some required packages：
 
 sudo apt-get install make build-essential libncurses-dev bison flex libssl-dev libelf-dev
 
+## Сборка TF-A 
 
+Официальный сайт проекта
+
+https://www.trustedfirmware.org/projects/tf-a/
+
+Проект Trusted Firmware-A предоставляет эталонную реализацию безопасного программного обеспечения для процессоров класса ARMv7-A и ARMv8-A.
+
+- Документация
+https://trustedfirmware-a.readthedocs.io/en/latest/getting_started/initial-build.html
+
+- Исходники
+
+
+- 
