@@ -16,4 +16,5 @@
 - [MarkDown](work/markdown.md)
 - [Тестирование компьютера](work/test_computer.md)
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
+- [WEB](web/html.html)
 
