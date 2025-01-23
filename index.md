@@ -17,4 +17,7 @@
 - [Тестирование компьютера](work/test_computer.md)
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
 - [WEB](WEB/html.html)
+- [АМПЕРКОТ](https://amperkot.ru/)
+- [АМПЕРО](https://ampero.ru)
+- [IARDUINO](https://iarduino.ru/)
 

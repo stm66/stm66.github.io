@@ -3,6 +3,14 @@
 
 # opencv
 OpenCV (англ. open source computer vision library) — библиотека алгоритмов компьютерного зрения, обработки изображений и численных алгоритмов общего назначения с открытым кодом. Реализована на Си/C++.
+- [Исходники openCV](https://github.com/opencv/opencv/)
+- [Документация openCV](http://docs.opencv.org)
+- [Tutorial opencv](https://docs.opencv.org/3.4/d9/df8/tutorial_root.html)
+- [Tutorials opencv](https://docs.opencv.org/3.4/)
+- [Отокомпилированный бинарник библиотеки OpenCV (устарела ссылка)](http://opencv.org/downloads.html)
+- [Отокомпилированный бинарник библиотеки OpenCV (устарела ссылка)](https://opencv.org/releases/)
+- [openCV-contrib](https://github.com/opencv/opencv_contrib)
+
 
 ## Где взять шаблон для калибовки
 - [Генератор шаблонов](https://calib.io/pages/camera-calibration-pattern-generator)  На этом сайте можно сгенерить шаблон нескольких типов.
@@ -19,6 +27,12 @@ OpenCV (англ. open source computer vision library) — библиотека 
 ## Полезные ссылки
 
 - [OpenCV шаг за шагом. Введение.](https://robocraft.ru/computervision/264)
+- [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+- [tiny-dnn на habr](https://habr.com/ru/articles/319436/)
+- [Caffe](http://caffe.berkeleyvision.org/)
+- [Распознавание образов и искусственный интеллект](https://recog.ru/)
+
+Caffe, TensorFlow, Torch, Yolo, Keras
 
 
 [Главная страница](https://stm66.github.io/)
