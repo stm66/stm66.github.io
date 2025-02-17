@@ -16,8 +16,21 @@
 - [MarkDown](work/markdown.md)
 - [Тестирование компьютера](work/test_computer.md)
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
+- [Сборка ядра Linux](ARU — Руководство по оптимизации Arch Linux)
 - [WEB](WEB/html.html)
+*** Кампании торгующие радиодеталями
 - [АМПЕРКОТ](https://amperkot.ru/)
 - [АМПЕРО](https://ampero.ru)
 - [IARDUINO](https://iarduino.ru/)
+- [SMD.RU](https://www.smd.ru)
+- [АМПЕРКА](https://amperka.ru/page/shipping)
+- [Arduno-KIT](https://arduino-kit.ru)
+- [Вольтик](https://voltiq.ru/)
+- [PCUS.RU](https://pcus.ru/)
+
+- [RISCV](RISCV/1000line_book.md)
+- [ARM](ARM/index.md)
+- [FPGA](fpga/index.md)
+- [USB](usb/index.md)
+- [Verilog](verilog/verilog.md)
 
