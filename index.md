@@ -1,5 +1,4 @@
 
-
  ![Image alt](image/pinguin.png){:style="float: left; margin-right: 17px; margin-top: 7px;"}
  
 - [Программирование](programming.md)
@@ -19,12 +18,15 @@
 - [Сборка ядра Linux](ARU — Руководство по оптимизации Arch Linux)
 - [WEB](WEB/html.html)
 
+
 ### USB
+
 - [Made USB simple](https://www.usbmadesimple.co.uk/)
 - [STM32 и USB-HID — это просто](https://habr.com/ru/articles/208026/)
 - [Разбираем и собираем обратно стек USB](https://habr.com/ru/articles/236401/)
 
 ### Кампании торгующие радиодеталями
+
 - [АМПЕРКОТ](https://amperkot.ru/)
 - [АМПЕРО](https://ampero.ru)
 - [IARDUINO](https://iarduino.ru/)
