@@ -18,7 +18,13 @@
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
 - [Сборка ядра Linux](ARU — Руководство по оптимизации Arch Linux)
 - [WEB](WEB/html.html)
-*** Кампании торгующие радиодеталями
+
+###USB
+- [Made USB simple](https://www.usbmadesimple.co.uk/)
+- [STM32 и USB-HID — это просто](https://habr.com/ru/articles/208026/)
+- [Разбираем и собираем обратно стек USB](https://habr.com/ru/articles/236401/)
+
+###Кампании торгующие радиодеталями
 - [АМПЕРКОТ](https://amperkot.ru/)
 - [АМПЕРО](https://ampero.ru)
 - [IARDUINO](https://iarduino.ru/)
