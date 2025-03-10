@@ -1,5 +1,6 @@
 - [Разработка цифровой аппаратуры нетрадиционным методом: Yosys, SpinalHDL, VexRiscv (ч.1)](https://habr.com/ru/articles/801191/)
 - [Разработка цифровой аппаратуры нетрадиционным методом: Yosys, SpinalHDL, VexRiscv (ч.2)](https://habr.com/ru/articles/802127/)
+- [Синтезируем SystemVerilog код в OpenSource среде Yosys/NextPNR](https://habr.com/ru/articles/593693/)
 
 ## Ссылки на репозитории
 
