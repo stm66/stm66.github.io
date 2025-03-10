@@ -32,6 +32,10 @@ OpenCV (англ. open source computer vision library) — библиотека 
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [Распознавание образов и искусственный интеллект](https://recog.ru/)
 
+## Теория 3d простыми словами
+- [Из фото в 3D, ч.1: геометрия формирования изображения](https://habr.com/ru/companies/magnus-tech/articles/770930/)
+- [Из фото в 3D, ч.2: калибровка камеры](https://habr.com/ru/companies/magnus-tech/articles/772534/)
+
 - [Python + OpenCV + Keras: делаем распознавалку текста за полчаса](https://habr.com/ru/articles/466565/)
 
 Caffe, TensorFlow, Torch, Yolo, Keras
