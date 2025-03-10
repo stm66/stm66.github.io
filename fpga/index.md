@@ -14,7 +14,6 @@
 - [VexRiscv: ](https://github.com/SpinalHDL/VexRiscv)
 - [VexRiscvWithKarnix: ](https://github.com/Fabmicro-LLC/VexRiscvWithKarnix)
 - [VexRiscvWithHUB12ForKarnix: ](https://github.com/Fabmicro-LLC/VexRiscvWithHUB12ForKarnix)
-
 - [Использование произвольных DataFlash 25-й серии вместо дорогих конфигураторов FPGA Altera без дополнительной аппаратуры](https://habr.com/ru/articles/352666/)
 
 ## Разработка своего процессора
