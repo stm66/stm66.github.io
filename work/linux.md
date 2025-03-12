@@ -12,3 +12,9 @@
 [LFS](https://linuxfromscratch.org/)
 [BFLS на русском](https://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 
+## Buildroot
+
+## Yocto
+
+
+

@@ -15,7 +15,7 @@
 - [MarkDown](work/markdown.md)
 - [Тестирование компьютера](work/test_computer.md)
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
-- [Сборка ядра Linux](ARU — Руководство по оптимизации Arch Linux)
+- [Сборка ядра Linux](linux/kernel.md)
 - [WEB](WEB/html.html)
 
 
@@ -25,7 +25,7 @@
 - [STM32 и USB-HID — это просто](https://habr.com/ru/articles/208026/)
 - [Разбираем и собираем обратно стек USB](https://habr.com/ru/articles/236401/)
 
-### Кампании торгующие радиодеталями
+### Компании торгующие радиодеталями
 
 - [АМПЕРКОТ](https://amperkot.ru/)
 - [АМПЕРО](https://ampero.ru)
