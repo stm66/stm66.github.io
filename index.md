@@ -1,8 +1,12 @@
-
+:Справочник
  ![Image alt](image/pinguin.png){:style="float: left; margin-right: 17px; margin-top: 7px;"}
+ 
+ 
+### Программирование
  
 - [Программирование](programming.md)
 - [Linux](linux/linux.md)
+- [Windows](windows/index_windows.md)
 - [Android](android/android.md)
 - [Алгоритмы](algorithm/algorithm.md)
 - [Тестирование программ](test_prog/test_prog.html)

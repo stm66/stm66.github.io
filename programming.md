@@ -1,5 +1,12 @@
 [Главная страница](https://stm66.github.io/)
 
+## Linux
+### Написание драйверов
+- [Как разработать драйвер Linux с нуля](https://habr.com/ru/companies/timeweb/articles/724282/)
+
+## Windows
+- []()
+
 ### kkk
 - [LAPACK Linear Algebra PACKage](http://www.netlib.org/lapack/)
 - [Бесплатные материалы для программистов](https://tproger.ru/articles/free-programming-books/)
@@ -7,10 +14,14 @@
 
 ## Языки программирования
 
+### Python
+
+
 ### c/c++
 - [Книги по языку Си для начинающих и не только](https://tproger.ru/books/clang-books/)
 - [Исчерпывающий список книг для знакомства с C++](https://tproger.ru/books/cpp-books-beginners/)
 - [Подборка книг по C++ для любого уровня](https://proglib.io/p/cpp-books/)
+- [Библиотека линейной алгебры](https://arma.sourceforge.net/)
 
 ### assembler
 

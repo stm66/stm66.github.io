@@ -10,6 +10,7 @@ OpenCV (англ. open source computer vision library) — библиотека 
 - [Отокомпилированный бинарник библиотеки OpenCV (устарела ссылка)](http://opencv.org/downloads.html)
 - [Отокомпилированный бинарник библиотеки OpenCV (устарела ссылка)](https://opencv.org/releases/)
 - [openCV-contrib](https://github.com/opencv/opencv_contrib)
+- [opencv](https://opencv.org/)
 
 
 ## Где взять шаблон для калибовки
@@ -38,7 +39,13 @@ OpenCV (англ. open source computer vision library) — библиотека 
 
 - [Python + OpenCV + Keras: делаем распознавалку текста за полчаса](https://habr.com/ru/articles/466565/)
 
-Caffe, TensorFlow, Torch, Yolo, Keras
+## 1
+
+ - [Caffe]()
+ - [TensorFlow]()
+ - [Torch]()
+ - [Yolo]()
+ - [Keras]()
 
 
 [Главная страница](https://stm66.github.io/)
