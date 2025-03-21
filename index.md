@@ -1,27 +1,37 @@
 :Справочник
- ![Image alt](image/pinguin.png){:style="float: left; margin-right: 17px; margin-top: 7px;"}
+ ![Image alt](image/pinguin.png){:style="float: right; margin-right: 17px; margin-top: 7px;"}
  
  
 ### Программирование
  
 - [Программирование](programming.md)
-- [Linux](linux/linux.md)
-- [Windows](windows/index_windows.md)
-- [Android](android/android.md)
 - [Алгоритмы](algorithm/algorithm.md)
 - [Тестирование программ](test_prog/test_prog.html)
 - [DSP](DSP/dsp.md)
 - [openCV](opencv/opencv.md)
-- [work](work/index.html)
-- [HTML5](https://html5beginner.github.io/html/html_head.html)
-- [CSS](https://html5beginner.github.io/css/css_tutorial.html)
-- [ARM Linux](work/armlinux.md)
 - [MarkDown](work/markdown.md)
 - [Тестирование компьютера](work/test_computer.md)
+
+### WEB
+
+- [WEB](WEB/html.html)
+- [HTML5](https://html5beginner.github.io/html/html_head.html)
+- [CSS](https://html5beginner.github.io/css/css_tutorial.html)
+
+### Linux 
+
+- [Linux](linux/linux.md)
+- [ARM Linux](work/armlinux.md)
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
 - [Сборка ядра Linux](linux/kernel.md)
-- [WEB](WEB/html.html)
 
+### Windows
+
+- [Windows](windows/index_windows.md)
+
+### Android
+
+- [Android](android/android.md)
 
 ### USB
 
@@ -39,10 +49,18 @@
 - [Arduno-KIT](https://arduino-kit.ru)
 - [Вольтик](https://voltiq.ru/)
 - [PCUS.RU](https://pcus.ru/)
+- [Compact_tool](https://compacttool.ru/)
+
+### Work
+
+- [work](work/index.html)
+
+### Справочные материалы
 
 - [RISCV](RISCV/1000line_book.md)
 - [ARM](ARM/index.md)
 - [FPGA](fpga/index.md)
 - [USB](usb/index.md)
 - [Verilog](verilog/verilog.md)
+
 
