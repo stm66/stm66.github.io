@@ -69,7 +69,9 @@
 - [USB](usb/index.md)
 - [Verilog](verilog/verilog.md)
 
-### Закладки Firefox
- - [firefox](firefox_bookmarks_4_2_25.html) 
+### Закладки браузеров
+
+ - [chromium](chromium_bookmarks_4_2_25.html)
+ - [firefox](bookmarks_firefox.html)
 
 
