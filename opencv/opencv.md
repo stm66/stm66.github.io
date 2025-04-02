@@ -12,6 +12,9 @@ OpenCV (англ. open source computer vision library) — библиотека 
 - [openCV-contrib](https://github.com/opencv/opencv_contrib)
 - [opencv](https://opencv.org/)
 
+# Калибровка камеры
+- [Убираем радиальное искажение с фото и видео при помощи библиотеки openCV и языка python](https://habr.com/ru/articles/341160/)
+
 
 ## Где взять шаблон для калибовки
 - [Генератор шаблонов](https://calib.io/pages/camera-calibration-pattern-generator)  На этом сайте можно сгенерить шаблон нескольких типов.
@@ -38,6 +41,17 @@ OpenCV (англ. open source computer vision library) — библиотека 
 - [Из фото в 3D, ч.2: калибровка камеры](https://habr.com/ru/companies/magnus-tech/articles/772534/)
 
 - [Python + OpenCV + Keras: делаем распознавалку текста за полчаса](https://habr.com/ru/articles/466565/)
+
+# Измерение размера объекта
+
+- [Measuring Object Size with OpenCV](https://plainenglish.io/blog/measuring-object-size-with-opencv)
+- [Убираем радиальное искажение с фото и видео при помощи библиотеки openCV и языка python](https://habr.com/ru/articles/341160/)
+- [Understanding OpenCV's undistort function](https://stackoverflow.com/questions/19897414/understanding-opencvs-undistort-function)
+- [Использование OpenCV для измерения размера объектов на изображении](https://vk.com/video37898201_456239070?to=L3ZpZGVvMzc4OTgyMDFfNDU2MjM5MDcwPw--)
+- [Measuring size of objects in an image with OpenCV](https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
+
+Есть учебник А. Н. Лобанов "Фотограмметрия" 1984 год. Глава 9. Анализ одиночного снимка. Как раз на эту тему
+
 
 ## 1
 

@@ -24,6 +24,7 @@
 - [ARM Linux](work/armlinux.md)
 - [Сборка ядра Linux для ARM](work/arm_linux.md)
 - [Сборка ядра Linux](linux/kernel.md)
+- [Сборка своего дистрибутива](linux/dist.md)
 
 ### Windows
 
@@ -50,10 +51,15 @@
 - [Вольтик](https://voltiq.ru/)
 - [PCUS.RU](https://pcus.ru/)
 - [Compact_tool](https://compacttool.ru/)
+- [Вольтик](https://voltiq.ru/)
+- [Точка опоры](https://shop.fulcrum.ru/delivery/)
+- [Симметрон](https://micronika.ru)
+- [Chipstep.ru](https://chipster.ru/)
 
 ### Work
 
 - [work](work/index.html)
+- [MIKLV MARS CM WIKI](https://milkv.io/docs/mars/overview)
 
 ### Справочные материалы
 
@@ -62,5 +68,8 @@
 - [FPGA](fpga/index.md)
 - [USB](usb/index.md)
 - [Verilog](verilog/verilog.md)
+
+### Закладки Firefox
+ - [firefox](firefox_bookmarks_4_2_25.html) 
 
 
