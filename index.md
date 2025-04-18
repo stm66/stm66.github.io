@@ -35,10 +35,11 @@
 - [Android](android/android.md)
 
 ### USB
-
+- [index](usb/usb_index.md)
 - [Made USB simple](https://www.usbmadesimple.co.uk/)
 - [STM32 и USB-HID — это просто](https://habr.com/ru/articles/208026/)
 - [Разбираем и собираем обратно стек USB](https://habr.com/ru/articles/236401/)
+- [Пишем драйвер ядра Linux для неизвестного USB-устройства](https://habr.com/ru/companies/timeweb/articles/710962/)
 
 ### Компании торгующие радиодеталями
 
@@ -60,6 +61,7 @@
 
 - [work](work/index.html)
 - [MIKLV MARS CM WIKI](https://milkv.io/docs/mars/overview)
+- [Генерация трафика](https://habr.com/ru/companies/qrator/articles/423957/)
 
 ### Справочные материалы
 
