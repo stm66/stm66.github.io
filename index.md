@@ -62,6 +62,7 @@
 - [work](work/index.html)
 - [MIKLV MARS CM WIKI](https://milkv.io/docs/mars/overview)
 - [Генерация трафика](https://habr.com/ru/companies/qrator/articles/423957/)
+- [MoomGen](work/moonGen.md)
 
 ### Справочные материалы
 
