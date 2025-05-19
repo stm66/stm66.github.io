@@ -63,6 +63,8 @@
 - [MIKLV MARS CM WIKI](https://milkv.io/docs/mars/overview)
 - [Генерация трафика](https://habr.com/ru/companies/qrator/articles/423957/)
 - [MoomGen](work/moonGen.md)
+- [ssh](work/ssh.md)
+- [Настройка Visual Studio Code](https://habr.com/ru/articles/490754/)
 
 ### Справочные материалы
 
