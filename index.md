@@ -31,7 +31,7 @@
 - [Windows](windows/index_windows.md)
 
 ### Android
-
+- [Сборка Андроид приложения из командной строки](android/command_line.md)
 - [Android](android/android.md)
 
 ### USB

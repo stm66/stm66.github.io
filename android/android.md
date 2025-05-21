@@ -81,25 +81,30 @@ https://www.oracle.com/java/technologies/downloads/?er=221886
 ## скачиваем NDK
 https://developer.android.com/ndk/downloads?hl=ru
 
+Примеры NDK https://github.com/android/ndk-samples/tree/main/gradle
+
+## Kotlin
+[Kotlin скачиваем отсюда](https://github.com/JetBrains/kotlin/releases/tag/v2.1.21)
+
 ## Документация по Android
-[Документация по Android  на русском](http://easyandroid.ru/)
-[Develop for Android](https://developer.android.com/develop)
-[Официальная документация по Android](https://developer.android.com/)
-[Начальная страница официальной документации](https://developer.android.com/get-started/overview?hl=ru)
-[Обзор манифеста приложения](https://developer.android.com/guide/topics/manifest/manifest-intro?hl=ru#groovy)
-[Настройте свою сборку](https://developer.android.com/build?hl=ru)
-[Command-line tools ](https://developer.android.com/tools)
-[Build your app from the command line](https://developer.android.com/build/building-cmdline)
-[Управление файлами манифеста](https://developer.android.com/build/manage-manifests?hl=ru)
-[Android ABIs](https://developer.android.com/ndk/guides/abis)
-[Create WebP images](https://developer.android.com/studio/write/convert-webp)
-[Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html)
+* [Документация по Android  на русском](http://easyandroid.ru/)
+* [Develop for Android](https://developer.android.com/develop)
+* [Официальная документация по Android](https://developer.android.com/)
+* [Начальная страница официальной документации](https://developer.android.com/get-started/overview?hl=ru)
+* [Обзор манифеста приложения](https://developer.android.com/guide/topics/manifest/manifest-intro?hl=ru#groovy)
+* [Настройте свою сборку](https://developer.android.com/build?hl=ru)
+* [Command-line tools ](https://developer.android.com/tools)
+* [Build your app from the command line](https://developer.android.com/build/building-cmdline)
+* [Управление файлами манифеста](https://developer.android.com/build/manage-manifests?hl=ru)
+* [Android ABIs](https://developer.android.com/ndk/guides/abis)
+* [Create WebP images](https://developer.android.com/studio/write/convert-webp)
+* [Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html)
 
 ## Gradle
-[Kotlin DSL Reference for Gradle](https://docs.gradle.org/current/kotlin-dsl/index.html)
-[Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
-[]()
-[]()
+* [Kotlin DSL Reference for Gradle](https://docs.gradle.org/current/kotlin-dsl/index.html)
+* [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
+* []()
+* []()
 
 ## Полезные ссылки
 [Как компилировать apk без android studio](https://megavtogal.com/android/kak-kompilirovat-apk-bez-android-studio.html?ysclid=mal53bjd8o662507263&utm_referrer=https%3A%2F%2Fya.ru%2F)
@@ -109,5 +114,9 @@ https://developer.android.com/ndk/downloads?hl=ru
 [Пишем, собираем и запускаем HelloWorld для Android в блокноте](https://habr.com/ru/articles/210584/)
 [Пишем, собираем и запускаем HelloWorld для Android в блокноте. Java 8 и Android N](https://habr.com/ru/articles/309504/)
 [Сборка Android приложения без Studio](https://habr.com/ru/articles/671086/)
+
+## Две полезные статьи
+* [Othello for Desktop, Mobile and Web: an AI and GUI Exercise](https://www.hanshq.net/othello.html#android_build)
+* [Building an Android App from the Command Line](https://www.hanshq.net/command-line-android.html#native)
 
 [Главная страница](https://stm66.github.io/)
